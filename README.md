@@ -20,5 +20,3 @@ A simple Weather Application built using HTML, CSS, and JavaScript.
 2. Open index.html in browser
 3. Add your OpenWeather API key inside script.js
 
-## 📸 Screenshot
-(Add screenshot here)
