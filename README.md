@@ -15,6 +15,10 @@ A simple Weather Application built using HTML, CSS, and JavaScript.
 - JavaScript
 - OpenWeather API
 
+#### 🌐 Live Demo
+
+https://weather-app-eta-lilac-51.vercel.app/
+
 ## ⚙️ How to Run
 1. Clone the repository
 2. Open index.html in browser
